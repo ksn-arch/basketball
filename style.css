@@ -1,6 +1,16 @@
 h1 {
     color: rgb(10, 6, 228);
   }
+  h2 {
+    color: rgb(25, 88, 23);
+  }
   body {
-    background-color: rgb(201, 232, 243);
+    background-color: rgb(228, 240, 245);
+  }
+  td {
+    color: rgb(228, 6, 6);
+    font-size: 80px;
+  }
+  a {
+    background-color:rgb(255, 0, 0);">rgb(255, 0, 0)    
   }
